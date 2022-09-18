@@ -798,6 +798,7 @@ input[alt="form"]::-moz-placeholder {
 
     .page-phone {
         margin-right: 20px;
+    	margin-left: 50px;
     }
 
     .page-content {
